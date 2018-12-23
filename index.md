@@ -39,7 +39,7 @@ Here are some cool projects I have worked on:
 #### Gene Selection for Survival Data with Glioma
 - Within a pool of thousands of genes, which ones can be used to predict survival risks of brain tumor patients? In the fall of 2017, I conducted a biostatistics-centric [UROP](https://ugresearch.umn.edu/urop), investigating survival analysis and variable selection.
 
-<div style="height:1em"> </div>
+<div style="height:2em"> </div>
 
 ### Publications
 <div style="height:1em"> </div>
