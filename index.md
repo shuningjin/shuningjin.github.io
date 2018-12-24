@@ -19,8 +19,9 @@ My research interests are: Machine Learning, Deep Learning, Natural Language Pro
 <p class="about-text">
 <span class="fa fa-globe about-icon"></span>
 I am from <a href="https://en.wikipedia.org/wiki/Wenzhou">Wenzhou</a>, China.
-My Chinese name is <span style="font-family:STKaiti;font-weight:bold;"> 金舒宁 </span>.
+My Chinese name is <img src="/img/my_chinese_name.png" alt="金舒宁" style="height:30px;margin-bottom:10px;">.
 </p>
+<!--<span style="font-family:STKaiti;font-weight:bold;"> 金舒宁 </span>. -->
 
 <div style="height:1em"> </div>
 ### Research
