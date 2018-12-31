@@ -44,9 +44,19 @@ Here are some cool projects I have worked on:
 
 ### Publications
 <div style="height:1em"> </div>
+
+#### Looking for ELMo's friends: Sentence-Level Pretraining Beyond Language Modeling
+Samuel R. Bowman, Ellie Pavlick, Edouard Grave, Benjamin Van Durme, Alex Wang, Jan Hula, Patrick Xia, Raghavendra Pappagari, R. Thomas McCoy, Roma Patel, Najoung Kim, Ian Tenney, Yinghui Huang, Katherin Yu, Shuning Jin, Berlin Chen. 2018.
+arXiv preprint.
+[[paper]](https://arxiv.org/pdf/1812.10860.pdf)
+[[code]](https://github.com/jsalt18-sentence-repl/jiant)
+
 #### Duluth UROP at SemEval-2018 Task 2: Multilingual Emoji Prediction with Ensemble Learning and Oversampling
-Shuning Jin and Ted Pedersen. 2018. In Proceedings of 12th International Workshop on Semantic Evaluation (SemEval).
-[[paper]](http://aclweb.org/anthology/S18-1077)
+Shuning Jin, Ted Pedersen. 2018.
+In Proceedings of 12th International Workshop on Semantic Evaluation (SemEval).
+[[paper]](https://aclweb.org/anthology/S18-1077)
+[[code]](https://github.com/shuningjin/SemEval2018-Task2-EmojiDetection)
 
 #### Discovering Prognostic Genes for Glioma with Elastic Net and Stability Selection
-Shuning Jin. 2018. In Proceedings of National Conference on Undergraduate Research (NCUR). [[paper]](http://www.ncurproceedings.org/ojs/index.php/NCUR2018/article/view/2687/1396)
+Shuning Jin. 2018.
+In Proceedings of National Conference on Undergraduate Research (NCUR). [[paper]](http://www.ncurproceedings.org/ojs/index.php/NCUR2018/article/view/2687/1396)
