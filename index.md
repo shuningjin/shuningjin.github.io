@@ -29,7 +29,7 @@ My Chinese name is <img src="/img/my_chinese_name.png" alt="金舒宁" style="he
 Here are some cool projects I have worked on:
 
 #### Sentence Representation Learning
-- In the summer of 2018, I participated in [the Fifth Frederick Jelinek Memorial Summer Workshop](https://www.clsp.jhu.edu/workshops/18-workshop/) at Center for Language and Speech Processing (CLSP) at The Johns Hopkins University. I was a member of the [General-Purpose Sentence Representation Learning Team](https://jsalt18-sentence-repl.github.io).
+- In the summer of 2018, I participated in [the Fifth Frederick Jelinek Memorial Summer Workshop](https://www.clsp.jhu.edu/workshops/18-workshop/) at Center for Language and Speech Processing (CLSP) at Johns Hopkins University. I was a member of the [General-Purpose Sentence Representation Learning Team](https://jsalt18-sentence-repl.github.io).
 
 <div style="height:1em"> </div>
 #### Multilingual Emoji Prediction on Twitter
@@ -59,4 +59,5 @@ In Proceedings of 12th International Workshop on Semantic Evaluation (SemEval).
 
 #### Discovering Prognostic Genes for Glioma with Elastic Net and Stability Selection
 Shuning Jin. 2018.
-In Proceedings of National Conference on Undergraduate Research (NCUR). [[paper]](http://www.ncurproceedings.org/ojs/index.php/NCUR2018/article/view/2687/1396)
+In Proceedings of National Conference on Undergraduate Research (NCUR).
+[[paper]](http://www.ncurproceedings.org/ojs/index.php/NCUR2018/article/view/2687/1396)
