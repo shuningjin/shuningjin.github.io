@@ -8,7 +8,7 @@ layout: page
 
 <p class="about-text">
 <span class="fa fa-graduation-cap about-icon"></span>
-I am a senior student at the University of Minnesota Duluth. I am pursuing a B.S. in Computer Science and Statistics.
+I am a senior student at the University of Minnesota Duluth. I am pursuing B.S. in Computer Science and Statistics.
 </p>
 
 <p class="about-text">
@@ -16,17 +16,19 @@ I am a senior student at the University of Minnesota Duluth. I am pursuing a B.S
 My research interests are: Machine Learning, Deep Learning, Natural Language Processing, and Computational Biology.
 </p>
 
+<!--
 <p class="about-text">
 <span class="fa fa-globe about-icon"></span>
 I am from <a href="https://en.wikipedia.org/wiki/Wenzhou">Wenzhou</a>, China.
-My Chinese name is <img src="/img/my_chinese_name.png" alt="金舒宁" style="height:30px;margin-bottom:10px;">.
+My Chinese name is <img src="/img/my_chinese_name.png" alt="" style="height:30px;margin-bottom:10px;">.
 </p>
-<!--<span style="font-family:STKaiti;font-weight:bold;"> 金舒宁 </span>. -->
+-->
+<!--<span style="font-family:STKaiti;font-weight:bold;">  </span>. -->
 
 <div style="height:1em"> </div>
 ### Research
 
-Here are some cool projects I have worked on:
+Here are some projects I have worked on:
 
 #### Sentence Representation Learning
 - In the summer of 2018, I participated in [the Fifth Frederick Jelinek Memorial Summer Workshop](https://www.clsp.jhu.edu/workshops/18-workshop/) at Center for Language and Speech Processing (CLSP) at Johns Hopkins University. I was a member of the [General-Purpose Sentence Representation Learning Team](https://jsalt18-sentence-repl.github.io).
