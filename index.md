@@ -8,7 +8,7 @@ layout: page
 
 <p class="about-text">
 <span class="fa fa-graduation-cap about-icon"></span>
-I am a senior student at the University of Minnesota Duluth. I am pursuing B.S. in Computer Science and Statistics.
+I graduated from University of Minnesota Duluth with B.S. in Computer Science and Statistics in May 2019.
 </p>
 
 <p class="about-text">
@@ -47,11 +47,17 @@ Here are some projects I have worked on:
 ### Publications
 <div style="height:1em"> </div>
 
+<!--
 #### Looking for ELMo's friends: Sentence-Level Pretraining Beyond Language Modeling
 Samuel R. Bowman, Ellie Pavlick, Edouard Grave, Benjamin Van Durme, Alex Wang, Jan Hula, Patrick Xia, Raghavendra Pappagari, R. Thomas McCoy, Roma Patel, Najoung Kim, Ian Tenney, Yinghui Huang, Katherin Yu, Shuning Jin, Berlin Chen. 2018.
 arXiv preprint.
 [[paper]](https://arxiv.org/pdf/1812.10860.pdf)
 [[code]](https://github.com/jsalt18-sentence-repl/jiant)
+-->
+
+#### How to Get Past Sesame Street: Sentence-Level Pretraining Beyond Language Modeling
+Alex Wang, Jan Hula, Patrick Xia, Raghavendra Pappagari, R. Thomas Mccoy, Roma Patel, Najoung Kim, Ian Tenney, Yinghui Huang, Katherin Yu, Shuning Jin, Berlin Chen, Benjamin Van Durme, Edouard Grave, Ellie Pavlick, Samuel R. Bowman. 2019.
+In Proceedings of ACL.
 
 #### Duluth UROP at SemEval-2018 Task 2: Multilingual Emoji Prediction with Ensemble Learning and Oversampling
 Shuning Jin, Ted Pedersen. 2018.
