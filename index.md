@@ -25,7 +25,18 @@ My Chinese name is <img src="/img/my_chinese_name.png" alt="" style="height:30px
 -->
 <!--<span style="font-family:STKaiti;font-weight:bold;">  </span>. -->
 
+
 <div style="height:1em"> </div>
+
+### News
+
+<div style="height:1em"> </div>
+
+- I will join the Computer Science Ph.D. program at University of Maryland, College Park in Fall 2019.
+- I will be a visiting student at Toyota Technological Institute at Chicago (TTIC) in Summer 2019.
+
+<div style="height:2em"> </div>
+
 ### Research
 
 Here are some projects I have worked on:
