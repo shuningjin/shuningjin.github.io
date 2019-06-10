@@ -28,15 +28,6 @@ My Chinese name is <img src="/img/my_chinese_name.png" alt="" style="height:30px
 
 <div style="height:1em"> </div>
 
-### News
-
-<div style="height:1em"> </div>
-
-- I will join the Computer Science Ph.D. program at University of Maryland, College Park in Fall 2019.
-- I will be a visiting student at Toyota Technological Institute at Chicago (TTIC) in Summer 2019.
-
-<div style="height:2em"> </div>
-
 ### Research
 
 Here are some projects I have worked on:
@@ -72,7 +63,7 @@ In Proceedings of ACL.
 
 #### Duluth UROP at SemEval-2018 Task 2: Multilingual Emoji Prediction with Ensemble Learning and Oversampling
 Shuning Jin, Ted Pedersen. 2018.
-In Proceedings of 12th International Workshop on Semantic Evaluation (SemEval).
+In Proceedings of International Workshop on Semantic Evaluation (SemEval).
 [[paper]](https://aclweb.org/anthology/S18-1077)
 [[code]](https://github.com/shuningjin/SemEval2018-Task2-EmojiDetection)
 
