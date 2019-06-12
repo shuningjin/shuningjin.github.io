@@ -57,9 +57,11 @@ arXiv preprint.
 [[code]](https://github.com/jsalt18-sentence-repl/jiant)
 -->
 
-#### How to Get Past Sesame Street: Sentence-Level Pretraining Beyond Language Modeling
+#### Can You Tell Me How to Get Past Sesame Street? Sentence-Level Pretraining Beyond Language Modeling
 Alex Wang, Jan Hula, Patrick Xia, Raghavendra Pappagari, R. Thomas Mccoy, Roma Patel, Najoung Kim, Ian Tenney, Yinghui Huang, Katherin Yu, Shuning Jin, Berlin Chen, Benjamin Van Durme, Edouard Grave, Ellie Pavlick, Samuel R. Bowman. 2019.
 In Proceedings of ACL.
+[[paper]](https://arxiv.org/pdf/1812.10860.pdf)
+[[code]](https://github.com/nyu-mll/jiant/tree/bert-friends-exps)
 
 #### Duluth UROP at SemEval-2018 Task 2: Multilingual Emoji Prediction with Ensemble Learning and Oversampling
 Shuning Jin, Ted Pedersen. 2018.
