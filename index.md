@@ -13,7 +13,7 @@ I graduated from University of Minnesota Duluth with B.S. in Computer Science an
 
 <p class="about-text">
 <span class="fa fa-heart about-icon"></span>
-My research interests are: Machine Learning, Deep Learning, Natural Language Processing, and Computational Biology.
+My research interests are: Machine Learning, Deep Learning, and Natural Language Processing.
 </p>
 
 <!--
@@ -38,7 +38,10 @@ Here are some projects I have worked on:
 <div style="height:1em"> </div>
 #### Multilingual Emoji Prediction on Twitter
 - I took part in [SemEval-2018 Task 2: Multilingual Emoji Prediction](https://competitions.codalab.org/competitions/17344) with Ted Pedersen. Our ensemble classifier ranked 18/47 in Subtask 1 English, and 5/20 in Subtask 2 Spanish.
+
+<!--
 - I am now improving the system with deep learning <span class="fa fa-magic"> </span>
+-->
 
 <div style="height:1em"> </div>
 #### Gene Selection for Survival Data with Glioma
