@@ -8,12 +8,17 @@ layout: page
 
 <p class="about-text">
 <span class="fa fa-graduation-cap about-icon"></span>
-I graduated from University of Minnesota Duluth with B.S. in Computer Science and Statistics in May 2019.
+I graduated from University of Minnesota Duluth with B.S. in Computer Science and Statistics in 2019.
 </p>
 
 <p class="about-text">
-<span class="fa fa-heart about-icon"></span>
+<span class="fa fa-search about-icon"></span>
 My research interests are: Machine Learning, Deep Learning, and Natural Language Processing.
+</p>
+
+<p class="about-text">
+<span class="fa fa-search about-icon"></span>
+Visiting research student at: Toyota Technological Institute at Chicago (2019), Johns Hopkins University (2018).
 </p>
 
 <!--
