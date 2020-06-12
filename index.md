@@ -31,7 +31,11 @@ layout: page
 <div style="height:1em"> </div>
 <h1 style="text-align:center;">About Me</h1>
 
-I graduated from University of Minnesota Duluth with B.S. in Computer Science and Statistics in 2019 <i class="fa fa-paw"></i> I was a visiting research student at Toyota Technological Institute at Chicago (2019-2020) and Johns Hopkins University (2018) <i class="fa fa-paw"></i> My research interests are Machine Learning, Deep Learning, and Natural Language Processing <i class="fa fa-paw"></i>
+I will be a PhD student at *Rutgers University* in Fall 2020.
+I graduated from *University of Minnesota Duluth* with B.S. in Computer Science and Statistics <i class="fa fa-paw">&nbsp;</i>
+I was a visiting research student at *Toyota Technological Institute at Chicago* and *Johns Hopkins University* <i class="fa fa-paw">&nbsp;</i>
+My research interests are Machine Learning, Deep Learning, and Natural Language Processing <i class="fa fa-paw">&nbsp;</i>
+&nbsp; <a href="/file/CV_of_Shuning_Jin.pdf" class="button">CV</a>
 
 <!--
 <span class="fa fa-paper-plane-o about-icon"></span>
@@ -157,7 +161,7 @@ Alex Wang, Jan Hula, Patrick Xia, Raghavendra Pappagari, R. Thomas Mccoy, Roma P
 ACL 2019. <br>
 <a href="https://arxiv.org/abs/1812.10860" class="button">paper</a>
 <a href="https://github.com/nyu-mll/jiant/tree/bert-friends-exps" class="button">code</a>
-<a href="/img/poster_wang19tell.pdf" class="button">poster</a>
+<a href="/file/poster_wang19tell.pdf" class="button">poster</a>
 <a href="https://www.aclweb.org/anthology/P19-1439.bib" class="button">bib</a>
 
 <!-- [[Paper]](https://arxiv.org/pdf/1812.10860.pdf)
