@@ -108,7 +108,6 @@ at Center for Language and Speech Processing at Johns Hopkins University. I was 
 <!-- <a class="button">@ Duluth NLP</a> -->
 <!-- <span class="bluetext">@ Duluth NLP</span>: -->
 
-
 @ <a href="https://www.d.umn.edu/~tpederse/group.html" class="link">*Duluth NLP*</a>: I worked with <a href="https://www.d.umn.edu/~tpederse/" class="link">*Ted Pedersen*</a>
 and participated in several SemEval competitions:
 <a href="https://competitions.codalab.org/competitions/17344" class="link">*SemEval-2018 Task 2*</a>
@@ -183,5 +182,5 @@ Shuning Jin, Ted Pedersen. SemEval 2018. <br>
 #### Discovering Prognostic Genes for Glioma with Elastic Net and Stability Selection
 Shuning Jin. National Conference on Undergraduate Research 2018. <br>
 <!--  In Proceedings of National Conference on Undergraduate Research (NCUR). -->
-<a href="https://www.ncurproceedings.org/ojs/index.php/NCUR2018/article/download/2687/1396" class="button">paper</a>
+<a href="https://www.ncurproceedings.org/ojs/index.php/NCUR2018/article/viewFile/2687/1396" class="button">paper</a>
 <!-- [[Paper]](http://www.ncurproceedings.org/ojs/index.php/NCUR2018/article/view/2687/1396) -->
