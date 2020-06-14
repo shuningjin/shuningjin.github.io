@@ -27,6 +27,15 @@ layout: page
   border: none;
   color: #000080;
 }
+.button:hover {
+  background-color: #388af7;
+  color: #FFFFFF;
+}
+.zoom {
+  transition: transform .2s;
+}
+.zoom:hover {
+  transform: scale(1.2);
 .bluetext {
   display: inline;
   color: #388af7;
@@ -44,9 +53,9 @@ My research interests are Machine Learning, Deep Learning, and Natural Language 
 &nbsp; <a href="/file/CV_of_Shuning_Jin.pdf" class="button">CV</a>
 &nbsp; <a href="https://github.com/shuningjin" class="button"><i class="fa fa-github" ></i></a>
 
+
+
 <!-- &nbsp;  <a href="https://scholar.google.com/citations?hl=en&user=0Boc-2wAAAAJ" class="button"><i class="ai ai-google-scholar"></i></a> -->
-
-
 
 <!--<span style="font-family:STKaiti;font-weight:bold;">  </span>. -->
 <!-- https://ttic.uchicago.edu/~klivescu/SLATTIC/-->
@@ -69,8 +78,7 @@ at the Speech and Language Group of
 <a href="https://www.clsp.jhu.edu/workshops/18-workshop/" class="link">*the Fifth Frederick Jelinek Memorial Summer Workshop*</a>
 at Center for Language and Speech Processing at Johns Hopkins University. I was a member of the
 <a href="https://jsalt18-sentence-repl.github.io" class="link">*General-Purpose Sentence Representation Learning Team*</a>
-<img src="/img/cookie_monster.png" alt="cookie monster" style="height:30px;margin-bottom:5px;">
-
+[<img src="/img/cookie_monster.png" alt="cookie monster" style="height:30px;margin-bottom:5px;" class="zoom">](/img/group.jpg)
 
 @ <a href="https://www.d.umn.edu/~tpederse/group.html" class="link">*Duluth NLP*</a>: I worked with <a href="https://www.d.umn.edu/~tpederse/" class="link">*Ted Pedersen*</a>
 and participated in several SemEval competitions:
