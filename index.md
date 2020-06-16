@@ -52,10 +52,7 @@ I was a visiting research student at *Toyota Technological Institute at Chicago*
 My research interests are Machine Learning, Deep Learning, and Natural Language Processing <i class="fa fa-paw">&nbsp;</i>
 &nbsp; <a href="/file/CV_of_Shuning_Jin.pdf" class="button">CV</a>
 &nbsp; <a href="https://github.com/shuningjin" class="button"><i class="fa fa-github" ></i></a>
-
-
-
-<!-- &nbsp;  <a href="https://scholar.google.com/citations?hl=en&user=0Boc-2wAAAAJ" class="button"><i class="ai ai-google-scholar"></i></a> -->
+<!-- &nbsp; <a href="https://scholar.google.com/citations?hl=en&user=0Boc-2wAAAAJ" class="button"><i class="ai ai-google-scholar"></i></a> -->
 
 <!--<span style="font-family:STKaiti;font-weight:bold;">  </span>. -->
 <!-- https://ttic.uchicago.edu/~klivescu/SLATTIC/-->
