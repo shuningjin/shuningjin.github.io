@@ -23,6 +23,11 @@ layout: page
   border-left: 1px solid  #388af7;
   border-radius:0.3em;
 }
+.frame {
+  border: 1px solid #D3D3D3;
+  outline: 5px solid #FFFFFF;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);  
+}
 .link {
   border: none;
   color: #000080;
@@ -40,6 +45,8 @@ layout: page
   display: inline;
   color: #388af7;
 }
+
+
 </style>
 
 
@@ -90,11 +97,20 @@ Assessing Humor in Edited News Headlines.
 ### Publications
 <div style="height:1em"> </div>
 
+<!--
+<img src="/img/discrete.png" alt="cookie monster" style="width:150px; opacity: 0.6; filter:grayscale(20%);" class="frame" ALIGN="right"  HSPACE="20" VSPACE="5">
+-->
 
 #### Discrete Latent Variable Representations for Low-Resource Text Classification
 Shuning Jin, Sam Wiseman, Karl Stratos, Karen Livescu. ACL 2020. <br>
 <a href="https://arxiv.org/abs/2006.06226" class="button">paper</a>
+<a href="https://www.aclweb.org/anthology/2020.acl-main.437.bib" class="button">bib</a>
 
+<!--
+<br>
+<hr>
+<img src="/img/Sesame-Circus.jpg" alt="cookie monster" class="frame" style="width:150px; opacity: 0.5; margin-bottom: 100px;" align="right" hspace="20">
+ -->
 
 #### Can You Tell Me How to Get Past Sesame Street? Sentence-Level Pretraining Beyond Language Modeling
 Alex Wang, Jan Hula, Patrick Xia, Raghavendra Pappagari, R. Thomas Mccoy, Roma Patel, Najoung Kim, Ian Tenney, Yinghui Huang, Katherin Yu, Shuning Jin, Berlin Chen, Benjamin Van Durme, Edouard Grave, Ellie Pavlick, Samuel R. Bowman.
