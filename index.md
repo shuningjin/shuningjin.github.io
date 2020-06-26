@@ -85,7 +85,7 @@ at Center for Language and Speech Processing at Johns Hopkins University. I was 
 [<img src="/img/cookie_monster.png" alt="cookie monster" style="height:30px;margin-bottom:5px;" class="zoom">](/img/group.jpg)
 
 @ <a href="https://www.d.umn.edu/~tpederse/group.html" class="link">*Duluth NLP*</a>: I worked with <a href="https://www.d.umn.edu/~tpederse/" class="link">*Ted Pedersen*</a>
-and participated in several SemEval competitions:
+and participated in several SemEval shared tasks:
 <a href="https://competitions.codalab.org/competitions/17344" class="link">*SemEval-2018 Task 2*</a>
 Multilingual Emoji Prediction,
 <a href="https://competitions.codalab.org/competitions/20970" class="link">*SemEval-2020 Task 7*</a>
