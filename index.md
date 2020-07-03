@@ -104,7 +104,12 @@ Assessing Humor in Edited News Headlines.
 #### Discrete Latent Variable Representations for Low-Resource Text Classification
 Shuning Jin, Sam Wiseman, Karl Stratos, Karen Livescu. ACL 2020. <br>
 <a href="https://arxiv.org/abs/2006.06226" class="button">paper</a>
+<a href="https://github.com/shuningjin/discrete-text-rep" class="button">code</a>
+<a href="https://virtual.acl2020.org/paper_main.437.html" class="button">talk</a>
 <a href="https://www.aclweb.org/anthology/2020.acl-main.437.bib" class="button">bib</a>
+
+
+
 
 <!--
 <br>
