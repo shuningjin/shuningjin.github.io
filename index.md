@@ -124,8 +124,9 @@ Alex Wang, Jan Hula, Patrick Xia, Raghavendra Pappagari, R. Thomas Mccoy, Roma P
 ACL 2019. <br>
 <a href="https://arxiv.org/abs/1812.10860" class="button">paper</a>
 <a href="https://github.com/nyu-mll/jiant/tree/bert-friends-exps" class="button">code</a>
-<a href="/file/poster_wang19tell.pdf" class="button">poster</a>
 <a href="https://www.aclweb.org/anthology/P19-1439.bib" class="button">bib</a>
+|
+<a href="/file/poster_wang19tell.pdf" class="button">poster</a>
 
 
 #### Duluth UROP at SemEval-2018 Task 2: Multilingual Emoji Prediction with Ensemble Learning and Oversampling
