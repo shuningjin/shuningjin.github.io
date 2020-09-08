@@ -23,6 +23,26 @@ layout: page
   border-left: 1px solid  #388af7;
   border-radius:0.3em;
 }
+.button:hover {
+  background-color: #388af7;
+  color: #FFFFFF;
+}
+.button2 {
+  font: bold 14px Palatino;
+  text-decoration: none;
+  background-color: #FFFFFF;
+  color: MediumSeaGreen;
+  padding: 2px 6px 2px 6px;
+  border-top: 1px solid MediumSeaGreen;
+  border-right: 1px solid  MediumSeaGreen;
+  border-bottom: 1px solid  MediumSeaGreen;
+  border-left: 1px solid  MediumSeaGreen;
+  border-radius:0.3em;
+}
+.button2:hover {
+  background-color: MediumSeaGreen;
+  color: #FFFFFF;
+}
 .frame {
   border: 1px solid #D3D3D3;
   outline: 5px solid #FFFFFF;
@@ -32,10 +52,10 @@ layout: page
   border: none;
   color: #000080;
 }
-.button:hover {
-  background-color: #388af7;
-  color: #FFFFFF;
-}
+<!-- .link2 {
+  border: none;
+  color: MediumSeaGreen;
+} -->
 .zoom {
   transition: transform .2s;
 }
@@ -46,14 +66,14 @@ layout: page
   color: #388af7;
 }
 
-
 </style>
 
 
 <div style="height:1em"> </div>
 <h1 style="text-align:center;">About Me</h1>
 
-I will be a PhD student at *Rutgers University* in Fall 2020.
+<!-- I will be a PhD student at *Rutgers University* in Fall 2020. -->
+I am a PhD student at *Rutgers University* since Fall 2020.
 I graduated from *University of Minnesota Duluth* with B.S. in Computer Science and Statistics <i class="fa fa-paw">&nbsp;</i>
 I was a visiting research student at *Toyota Technological Institute at Chicago* and *Johns Hopkins University* <i class="fa fa-paw">&nbsp;</i>
 My research interests are Machine Learning, Deep Learning, and Natural Language Processing <i class="fa fa-paw">&nbsp;</i>
@@ -101,21 +121,22 @@ Assessing Humor in Edited News Headlines.
 <img src="/img/discrete.png" alt="cookie monster" style="width:150px; opacity: 0.6; filter:grayscale(20%);" class="frame" ALIGN="right"  HSPACE="20" VSPACE="5">
 -->
 
+#### Duluth at SemEval-2020 Task 7: Using Surprise as a Key to Unlock Humorous Headlines
+Shuning Jin, Yue Yin, XianE Tang, Ted Pedersen. SemEval 2020 (to appear). <br>
+<a href="https://arxiv.org/abs/2009.02795" class="button">paper</a>
+<a href="https://github.com/dora-tang/SemEval-2020-Task-7" class="button">code</a>
+<!-- <a href="https://www.aclweb.org/anthology/S18-1077.bib" class="button">bib</a> -->
+
+
 #### Discrete Latent Variable Representations for Low-Resource Text Classification
 Shuning Jin, Sam Wiseman, Karl Stratos, Karen Livescu. ACL 2020. <br>
 <a href="https://arxiv.org/abs/2006.06226" class="button">paper</a>
 <a href="https://github.com/shuningjin/discrete-text-rep" class="button">code</a>
 <a href="https://www.aclweb.org/anthology/2020.acl-main.437.bib" class="button">bib</a>
 |
-<a href="https://virtual.acl2020.org/paper_main.437.html" class="button">ACL portal</a>
-<a href="https://slideslive.com/38929414/discrete-latent-variable-representations-for-lowresource-text-classification" class="button">video</a>
-<a href="https://github.com/shuningjin/discrete-text-rep/blob/master/slides/slides_jin2020discrete.pdf" class="button">slides</a>
-
-#### Duluth at SemEval-2020 Task 7: Using Surprise as a Key to Unlock Humorous Headlines
-Shuning Jin, Yue Yin, XianE Tang, Ted Pedersen. SemEval 2020 (to appear). <br>
-<a href="https://arxiv.org/abs/2009.02795" class="button">paper</a>
-<a href="https://github.com/dora-tang/SemEval-2020-Task-7" class="button">code</a>
-<!-- <a href="https://www.aclweb.org/anthology/S18-1077.bib" class="button">bib</a> -->
+<a href="https://slideslive.com/38929414/discrete-latent-variable-representations-for-lowresource-text-classification" class="button2">video</a>
+<a href="https://github.com/shuningjin/discrete-text-rep/blob/master/slides/slides_jin2020discrete.pdf" class="button2">slides</a>
+<a href="https://virtual.acl2020.org/paper_main.437.html" class="button2">ACL portal</a>
 
 
 <!--
@@ -131,7 +152,7 @@ ACL 2019. <br>
 <a href="https://github.com/nyu-mll/jiant/tree/bert-friends-exps" class="button">code</a>
 <a href="https://www.aclweb.org/anthology/P19-1439.bib" class="button">bib</a>
 |
-<a href="/file/poster_wang19tell.pdf" class="button">poster</a>
+<a href="/file/poster_wang19tell.pdf" class="button2">poster</a>
 
 
 #### Duluth UROP at SemEval-2018 Task 2: Multilingual Emoji Prediction with Ensemble Learning and Oversampling
