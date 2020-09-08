@@ -111,6 +111,11 @@ Shuning Jin, Sam Wiseman, Karl Stratos, Karen Livescu. ACL 2020. <br>
 <a href="https://slideslive.com/38929414/discrete-latent-variable-representations-for-lowresource-text-classification" class="button">video</a>
 <a href="https://github.com/shuningjin/discrete-text-rep/blob/master/slides/slides_jin2020discrete.pdf" class="button">slides</a>
 
+#### Duluth at SemEval-2020 Task 7: Using Surprise as a Key to Unlock Humorous Headlines
+Shuning Jin, Yue Yin, XianE Tang, Ted Pedersen. SemEval 2020 (to appear). <br>
+<a href="https://arxiv.org/abs/2009.02795" class="button">paper</a>
+<a href="https://github.com/dora-tang/SemEval-2020-Task-7" class="button">code</a>
+<!-- <a href="https://www.aclweb.org/anthology/S18-1077.bib" class="button">bib</a> -->
 
 
 <!--
